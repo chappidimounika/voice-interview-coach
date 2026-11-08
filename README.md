@@ -26,6 +26,5 @@ Then run:
 streamlit run app.py
 
 ## Live demo
-[Add your Streamlit link here]
-
+(https://voice-interview-coach.streamlit.app/)
 #GnaniAI #GreatIndianAIInternshipChallenge
